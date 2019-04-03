@@ -1,0 +1,24 @@
+{
+  "name": "ting-tool",
+  "version": "1.0.0",
+  "description": "js工具类集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhongyu1009/ting-tool.git"
+  },
+  "keywords": [
+    "工具类",
+    "方法",
+    "js"
+  ],
+  "author": "wangzhongyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangzhongyu1009/ting-tool/issues"
+  },
+  "homepage": "https://github.com/wangzhongyu1009/ting-tool#readme"
+}
